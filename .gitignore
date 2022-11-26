@@ -27,3 +27,6 @@ yarn-error.log*
 .idea
 *.sublime*
 .vscode
+
+/server/README.md
+/client/README.md
